@@ -1,17 +1,24 @@
-<div style="background-color: black; padding: 20px;">
+<body style="background-color: 343434; padding: 20px; display: flex; align-items: center;">
+    <a href="https://pavanbingi.github.io/pavan-portfolio-site/" style="flex: 0;">
+        <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" alt="MasterHead" style="max-height: 100px;">
+    </a>
+   <h1 style="margin: 0; text-align: center; flex: 1; background-color: #343434;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=8&size=40&pause=1000&color=F7F7F7&background=000000&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+PavanKumarBingi" alt="Typing SVG" style="max-height: 100px;">
+</h1>
 
-[![MasterHead](https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif)](https://pavanbingi.github.io/pavan-portfolio-site/)
+<h3 style="margin: 0; text-align: center; flex: 1;">
+    <span style="display: inline-block; background-color: #343434; color: #f7f7f7; padding: 10px;">
+        As a skilled Java full-stack developer, I specialize in building robust web applications that offer seamless user experiences. My expertise spans both front-end and back-end development, allowing me to create dynamic user interfaces using frameworks like React and integrate them with powerful Java back-end systems, often utilizing Spring Boot. Proficient in database management, I ensure efficient data handling using SQL or NoSQL databases. My commitment is to deliver high-quality, scalable solutions that surpass client expectations. I thrive in collaborative environments, where I can leverage my skills to drive innovation and success.
+    </span>
+</h3>
 
 
- <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=8&size=40&pause=1000&color=F7F7F7&background=000000&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+PavanKumarBingi" alt="Typing SVG" />
-  </h1>
 
-<h3 align="center" style="color: white;">As a skilled Java full-stack developer, I specialize in building robust web applications that offer seamless user experiences. My expertise spans both front-end and back-end development, allowing me to create dynamic user interfaces using frameworks like React and integrate them with powerful Java back-end systems, often utilizing Spring Boot. Proficient in database management, I ensure efficient data handling using SQL or NoSQL databases. My commitment is to deliver high-quality, scalable solutions that surpass client expectations. I thrive in collaborative environments, where I can leverage my skills to drive innovation and success.</h3>
 
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" style="border-radius: 10px; transition: opacity 0.5s;">
 
-<p align="left"> <a href="https://twitter.com/pavankumarbing3" target="blank"><img src="https://img.shields.io/twitter/follow/pavankumarbing3?logo=twitter&style=for-the-badge" alt="pavankumarbing3" /></a> </p>
+
+<p align="left" style="background-color: #000;"> <a href="https://twitter.com/pavankumarbing3" target="blank" style="background-color: #000;"><img src="https://img.shields.io/twitter/follow/pavankumarbing3?logo=twitter&style=for-the-badge" alt="pavankumarbing3" /></a> </p>
 
 - 🌱 I’m currently learning **Java Full Stack and MERN Stack**
 
@@ -21,7 +28,8 @@
 
 - 📫 How to reach me **bingipavankumar63@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1PsI-JZK3sOAJY_UviajWXgyIzm9qbv46/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1PsI-JZK3sOAJY_UviajWXgyIzm9qbv46/view?usp=sharing) 
+
 
 <h3 align="left" style="color: white;">Connect with me:</h3>
 <p align="left">
