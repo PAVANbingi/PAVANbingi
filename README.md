@@ -28,7 +28,9 @@
 
 - 📫 How to reach me **bingipavankumar63@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1PsI-JZK3sOAJY_UviajWXgyIzm9qbv46/view?usp=sharing) 
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1PsI-JZK3sOAJY_UviajWXgyIzm9qbv46/view?usp=sharing)
+
+- 📄 Know about my work [stackblitz](https://stackblitz.com/@PAVANbingi/repositories)
 
 
 ### [Connect with me:](https://pavanbingi.github.io/-resume-website-using-pure-HTML/) 
