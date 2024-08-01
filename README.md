@@ -31,7 +31,7 @@
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1PsI-JZK3sOAJY_UviajWXgyIzm9qbv46/view?usp=sharing) 
 
 
-<h3 align="left" style="color: white;">Connect with me:</h3>
+[Connect with me:](https://pavanbingi.github.io/-resume-website-using-pure-HTML/) 
 <p align="left">
 <a href="https://dev.to/bpk45_0670a02e0f3a6839b3a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to" height="30" width="40" /></a>
 <a href="https://twitter.com/pavankumarbing3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pavankumarbing3" height="30" width="40" /></a>
