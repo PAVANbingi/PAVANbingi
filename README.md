@@ -180,7 +180,8 @@
 <div align="center">
 <a href="https://github.com/PAVANbingi">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PAVANbingi&theme=onedark" height="180em" /> <br/><br/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=PAVANbingi&theme=one-dark-pro&fire=EB197C&border=EBDD83&ring=EBB250" height="180em" /> <br/><br/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=PAVANbingi&theme=one-dark-pro&fire=EB197C&border=EBDD83&ring=EBB250
+" height="180em" /> <br/><br/>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PAVANbingi&theme=onedark" height="180em" />&nbsp;&nbsp;&nbsp;<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PAVANbingi&langs_count=8&theme=onedark" alt=PAVANbingi /> 
 </div>
 
