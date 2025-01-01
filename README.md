@@ -45,7 +45,7 @@
 
 <div align="center">
   <img src="https://github.com/ShahramShakiba/ShahramShakiba/assets/110089830/98f56d40-5e1f-43f3-83a5-3327edebe101" height="40" alt="hand shaking" style="vertical-align: middle;"/>
-  <span style="font-family: 'Mathematical Italic Script'; font-size: 28px;">𝑪𝒐𝒏𝒕𝒂𝒄𝒕 𝑴𝒆</span>
+  <h1>   𝑪𝒐𝒏𝒕𝒂𝒄𝒕 𝑴𝒆</h1>
 </div>
 
 
@@ -101,7 +101,7 @@
 
 
   
-<h3> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bubbles.png" alt="Bubbles" width="40" height="40" />  &nbsp; I program with  </h3> 
+<h3> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bubbles.png" alt="Bubbles" width="40" height="40" />  &nbsp; 𝘐 𝒑𝒓𝒐𝒈𝒓𝒂𝒎 𝒘𝒊𝒕𝒉 </h3> 
 
 <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -144,7 +144,9 @@
 
 <br/>
 
-<h3> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bubbles.png" alt="Bubbles" width="40" height="40" /> &nbsp; Experienced in leveraging  </h3>
+<h3> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bubbles.png" alt="Bubbles" width="40" height="40" /> &nbsp; 𝑬𝒙𝒑𝒆𝒓𝒊𝒆𝒏𝒄𝒆𝒅 𝒊𝒏 𝒍𝒆𝒗𝒆𝒓𝒂𝒈𝒊𝒏𝒈
+
+  </h3>
  
 
 
@@ -173,7 +175,7 @@
 <br/><br/>
 <!--=================================== MY STATS ===================================-->
 <h2>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Canoe.png" alt="Canoe" width="50" height="50" /> &nbsp; Activity Data
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Canoe.png" alt="Canoe" width="50" height="50" /> &nbsp; 𝑨𝒄𝒕𝒊𝒗𝒊𝒕𝒚 𝑫𝒂𝒕𝒂
 </h2>
 <div align="center">
 <a href="https://github.com/PAVANbingi">
@@ -184,7 +186,9 @@
 
 <!--============================== Activity Graph ==============================-->
 <h2 align="left"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6f8/512.gif" alt="🛸" width="60" >
-  &nbsp; Activity Graph
+  &nbsp; 𝑨𝒄𝒕𝒊𝒗𝒊𝒕𝒚 𝑮𝒓𝒂𝒑𝒉
+
+
 </h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=PAVANbingi&radius=16&theme=react&area=true&order=5&hide_border=true&title_color=77d3ee" alt="PAVANbingi Activities"/>
 
